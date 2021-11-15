@@ -1,5 +1,5 @@
 {
-    "binfile": "gol",
+    "binname": "gol",
     "needsCompiled": true,
     "compileScript": ".avalon/compile.sh",
     "deps": {
