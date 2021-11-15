@@ -6,6 +6,15 @@
         ],
         "oarg": [
             "-Ofast"
+        ]
+    },
+    "d": {
+        "out": "gol", 
+        "l": [
+            "X11"
+        ],
+        "oarg": [
+            "-Ofast"
         ],
         "after": "./gol"
     }
