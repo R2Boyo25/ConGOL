@@ -1,7 +1,7 @@
 {
     "binfile": "gol",
     "needsCompiled": true,
-    "compileScript": "compile.sh",
+    "compileScript": ".avalon/compile.sh",
     "deps": {
         "avalon": [
             "R2Boyo25/AvalonComp"
