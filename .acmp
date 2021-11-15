@@ -1,0 +1,12 @@
+{
+    "_default": {
+        "out": "gol", 
+        "l": [
+            "X11"
+        ],
+        "oarg": [
+            "-Ofast"
+        ],
+        "after": "./gol"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "binfile": "gol",
+    "compileScript": "compile.sh",
+    "deps": {
+        "avalon": [
+            "R2Boyo25/AvalonComp"
+        ]
+    }
+}
